@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This is a blog explains method proposed in the paper Competitive gradient descent (Schäfer et al., 2019). This has been written as a supplimentary to the reproducibility report for reproducibility challenge of NeurlIPS’19. The pdf format of the report is present here with this github repository as its source.
+This is a blog explains method proposed in the paper Competitive gradient descent [(Schäfer et al., 2019)](https://arxiv.org/abs/1905.12103). This has been written as a supplimentary to the reproducibility report for reproducibility challenge of NeurlIPS’19. The pdf format of the report is present [here](https://gopikishan14.github.io/Reproducibility_Challenge_NeurIPS_2019/index.html) with this github [repository](https://github.com/GopiKishan14/Reproducibility_Challenge_NeurIPS_2019) as its source.
