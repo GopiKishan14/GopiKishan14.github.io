@@ -1,7 +1,7 @@
 ---
 title: 'Abstract of the paper "Competitive Gradient Descent"'
-date: 2012-08-14
-permalink: /Reproducibility_Challenge_NeurIPS_2019/README.html
+date: 
+permalink: /posts/2013/08/RP_blog/
 tags:
   - cool posts
   - category1
