@@ -1,6 +1,6 @@
 ---
 title: 'Abstract of the paper "Competitive Gradient Descent"'
-date: 
+date: 2020-01-10
 permalink: /posts/2013/08/RP_blog/
 tags:
   - cool posts
