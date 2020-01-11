@@ -9,7 +9,7 @@ tags:
 ---
 Dexterity in probability is needed to solve the fundamental problems of machine learning and artificial intelligence. This blog aims at summing up together the various techniques applied in different probability problems to make calculations easier and, sometimes,even possible! 
 
-### The overview of the blog 
+### Overview of the blog 
 * Identity Trick
 * Bounding Trick
 * Density Ratio Trick
