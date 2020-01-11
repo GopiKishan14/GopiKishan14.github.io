@@ -1,5 +1,5 @@
 ---
-title: "Reproducibility Challenge NeurIPS 2019 Report on "Competitive Gradient Descent""
+title: "Reproducibility Challenge NeurIPS 2019 Report on Competitive Gradient Descent"
 collection: publications
 permalink: /publication/2020-01-10-reproducibility-report
 excerpt: 'The purpose of this report is to critically examine the reproducibility of the work by Schäfer et al., 2019), within the framework of the NeurIPS 2019 Reproducibility Challenge.'
