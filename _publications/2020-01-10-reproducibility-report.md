@@ -3,7 +3,7 @@ title: "Reproducibility Challenge NeurIPS 2019 Report on Competitive Gradient De
 collection: publications
 permalink: /publication/2020-01-10-reproducibility-report
 excerpt: 'The purpose of this report is to critically examine the reproducibility of the work by Schäfer et al., 2019), within the framework of the NeurIPS 2019 Reproducibility Challenge.'
-date: 2022-01-22
+# date: 2019 
 venue: 'Reproducibility Challenge NeurIPS 2019'
 # paperurl: 'https://gopikishan14.github.io/Reproducibility_Challenge_NeurIPS_2019/index.html'
 # citation: 'kishan, G. (2020). &quot;Reproducibility Challenge NeurIPS 2019 Report on "Competitive Gradient Descent.&quot; <i>Reproducibility Challenge NeurIPS 2019</i>. 1(1).'
