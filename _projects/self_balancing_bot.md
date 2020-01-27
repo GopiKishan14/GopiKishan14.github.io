@@ -1,10 +1,13 @@
 ---
 title: "Self Balancing Bot"
 collection: projects
-type: "whatever I want"
-permalink: /projects/self_balancing_bot
+# type: "whatever I want"
+permalink: /Self_Balancing_Bot
 # venue: "UC-Berkeley Institute for Testing Science"
-# date: 2013-03-01
+date: 2019-03-01
 # location: "Berkeley CA, USA"
 ---
-
+This project aims at stabilising a two-wheeled robot (naturally in non-equilibrium)
+using Reinforcement Learning.
+A virtual bot is created using ROS URDF and PyBullet is used to simulate physics. Q-learning is used as a Learning algorithm for the agent implemented using deep Q-Network, a deep neural network.
+Details on hardware implementation and env set up are given in README.
