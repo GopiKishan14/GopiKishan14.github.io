@@ -22,7 +22,7 @@ the following public git repository: (https://github.com/GopiKishan14/
 Reproducibility_Challenge_NeurIPS_2019)
 
 
-Download paper [here](https://gopikishan14.github.io/Reproducibility_Challenge_NeurIPS_2019/index.html)
+Download arXiv version of paper from [here](https://arxiv.org/pdf/2001.10820.pdf)
 
 Github [code](https://github.com/GopiKishan14/Reproducibility_Challenge_NeurIPS_2019)
 
