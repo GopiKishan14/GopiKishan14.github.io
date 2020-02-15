@@ -12,8 +12,6 @@ This project is  created for having and learning basics of Blockchain. It cointa
 * Simple proof-of-work algorithm
 * Verify blockchain (to prevent tampering)
 * Generate wallet (private/public key)
-* Sign transactions 
-
+* Sign transactions \
 Follow the link to learn some basics and play around!
-
 ----
